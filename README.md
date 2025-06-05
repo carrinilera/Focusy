@@ -18,10 +18,6 @@
 - **Styling:** Bootstrap 5 + custom CSS
 - **Icons:** Bootstrap Icons
 
-## 📸 Preview
-
-![Focusy Screenshot](preview.png)
-
 ## 🛠 Installation & Development
 
 ### Prerequisites
@@ -35,7 +31,7 @@
 1. Clone the repository:
 
 ```
-   git clone https://github.com/your-username/focusy.git
+   git clone https://github.com/carrinilera/Focusy.git
    cd focusy
 ```
 
