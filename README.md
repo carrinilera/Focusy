@@ -34,25 +34,25 @@
 
 1. Clone the repository:
 
-   ```
+```
    git clone https://github.com/your-username/focusy.git
    cd focusy
-  ```
+```
 
 2. Install frontend dependencies:
-  ```
+```
   cd frontend
   npm install
-  ```
+```
 
 3. Start the DFINITY backend locally:
-  ```
+```
   dfx start --background
   dfx deploy
-  ```
+```
 
 ## 📂 Project Structure
-
+```
 focusy/
 ├── .devcontainer/
 ├── backend/  
@@ -62,6 +62,7 @@ focusy/
 │   ├── index.html
 │   └── ...
 └── README.md
+```
 
 ## ⚙️ Backend API (Motoko)
 
